@@ -1,0 +1,3 @@
+{   
+    "ignore": ["count.json", "whitelisted_bots.json"] 
+}
